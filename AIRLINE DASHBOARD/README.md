@@ -1,0 +1,1 @@
+An interactive Tableau dashboard that analyzes airline passenger data using KPI cards, charts, and filters to provide insights into flight status, airport performance, passenger demographics, and travel trends.
